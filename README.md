@@ -8,7 +8,7 @@
 
 **Data set:**  Student survey
 
-** Data Insights:**  
+**Data Insights:**  
 
 Store Setting Impact (Tabular & Funnel): Spending habits vary significantly across different store settings (e.g., Rural, Urban, Suburban), clearly visualized in Tabular reports and Funnel charts showing total purchase distribution.
 
